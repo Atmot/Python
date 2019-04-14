@@ -1,4 +1,4 @@
-## question 3 solution ##
+## chapter 2 question 3 solution ##
 
 current_time_string = input("What is the current time (in hours)? ")
 waiting_time_string = input("How many hours do you have to wait? ")
